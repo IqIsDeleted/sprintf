@@ -1,2 +1,2 @@
-# sprintf
-Own implementation of sprintf
+## sprintf
+Own implementation of sprintf.
